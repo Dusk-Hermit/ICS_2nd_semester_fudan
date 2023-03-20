@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Mar  6 09:05:25 2023
+# Process ID: 28580
+# Current directory: D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified/MIPS_Single_cycle_modified.runs/synth_1
+# Command line: vivado.exe -log mips.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mips.tcl
+# Log file: D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified/MIPS_Single_cycle_modified.runs/synth_1/mips.vds
+# Journal file: D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified/MIPS_Single_cycle_modified.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mips.tcl -notrace

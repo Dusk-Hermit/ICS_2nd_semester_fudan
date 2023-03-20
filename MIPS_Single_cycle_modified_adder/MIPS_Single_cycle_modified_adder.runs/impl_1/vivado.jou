@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Mar  5 21:38:54 2023
+# Process ID: 27792
+# Current directory: D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified_adder/MIPS_Single_cycle_modified_adder.runs/impl_1
+# Command line: vivado.exe -log platform.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source platform.tcl -notrace
+# Log file: D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified_adder/MIPS_Single_cycle_modified_adder.runs/impl_1/platform.vdi
+# Journal file: D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified_adder/MIPS_Single_cycle_modified_adder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source platform.tcl -notrace

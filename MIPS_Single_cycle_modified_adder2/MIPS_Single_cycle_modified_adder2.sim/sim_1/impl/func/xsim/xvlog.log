@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/code_writing/ICS_2nd_semester/MIPS_Single_cycle_modified_adder2/MIPS_Single_cycle_modified_adder2.sim/sim_1/impl/func/xsim/testbench_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-311] analyzing module adder_0
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-311] analyzing module clkdiv
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-311] analyzing module dmd
+INFO: [VRFC 10-311] analyzing module dmem
+INFO: [VRFC 10-311] analyzing module flopr
+INFO: [VRFC 10-311] analyzing module io
+INFO: [VRFC 10-311] analyzing module m7seg
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-311] analyzing module glbl

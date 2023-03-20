@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Mar  5 13:42:02 2023
+# Process ID: 29452
+# Current directory: D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.runs/impl_1
+# Command line: vivado.exe -log mips.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mips.tcl -notrace
+# Log file: D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.runs/impl_1/mips.vdi
+# Journal file: D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mips.tcl -notrace

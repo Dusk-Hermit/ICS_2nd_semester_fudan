@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="439830fs"></ZoomStartTime>
+      <ZoomEndTime time="1070680fs"></ZoomEndTime>
+      <Cursor1Time time="866997fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="122"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/BTNC" type="logic">
+      <obj_property name="ElementShortName">BTNC</obj_property>
+      <obj_property name="ObjectShortName">BTNC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/BTNL" type="logic">
+      <obj_property name="ElementShortName">BTNL</obj_property>
+      <obj_property name="ObjectShortName">BTNL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/BTNR" type="logic">
+      <obj_property name="ElementShortName">BTNR</obj_property>
+      <obj_property name="ObjectShortName">BTNR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/SW" type="array">
+      <obj_property name="ElementShortName">SW[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SW[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/AN" type="array">
+      <obj_property name="ElementShortName">AN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/AN" type="array">
+      <obj_property name="ElementShortName">AN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/a_to_g" type="array">
+      <obj_property name="ElementShortName">a_to_g[6:0]</obj_property>
+      <obj_property name="ObjectShortName">a_to_g[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/Top/a_to_g" type="array">
+      <obj_property name="ElementShortName">a_to_g[6:0]</obj_property>
+      <obj_property name="ObjectShortName">a_to_g[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/Top/dmd/io/led1" type="array">
+      <obj_property name="ElementShortName">led1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">led1[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/Top/mips/writedata" type="array">
+      <obj_property name="ElementShortName">writedata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">writedata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/Top/dmd/m7seg/led" type="array">
+      <obj_property name="ElementShortName">led[31:0]</obj_property>
+      <obj_property name="ObjectShortName">led[31:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.sim/sim_1/impl/func/xsim/testbench_func_impl.v,1677994993,verilog,,,,adder;adder_0;alu;datapath;flopr;glbl;mips;regfile,,,,,,,,
+D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/dmem.sv,1677921868,systemVerilog,,D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/imem.sv,,dmem,,,,,,,,
+D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/imem.sv,1677982983,systemVerilog,,D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/top.sv,,imem,,,,,,,,
+D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/testbench.sv,1677994914,systemVerilog,,,,testbench,,,,,,,,
+D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/top.sv,1677921868,systemVerilog,,D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/testbench.sv,,top,,,,,,,,

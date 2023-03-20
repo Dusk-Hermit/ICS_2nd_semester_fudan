@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Simulation succeeded
+$stop called at time : 175 ns : File "D:/code_writing/ICS_2nd_semester/MIPS_Sinlge_cycle/MIPS_Sinlge_cycle.srcs/sim_1/new/testbench.sv" Line 58

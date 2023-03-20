@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/Top.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/adder.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/alu.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/aludec.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/controller.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/datapath.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/dmd.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/dmem.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/flopr.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/imem.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/io.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/m7seg.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/maindec.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/mips.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/mux2.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/regfile.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/signext.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/sl2.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sources_1/imports/sources/zeroext.sv" \
+"../../../../MIPS_Single_cycle_modified_adder2_1.srcs/sim_1/imports/sim/testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
